@@ -5,4 +5,4 @@ instance/
 *.sqlite3
 
 .venv/
-config.py
+app/config.py
